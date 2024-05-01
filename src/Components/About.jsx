@@ -24,19 +24,23 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Data Science Student studying at University of Naples Federico II, Naples, Italy.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Statistical Data Analysis",
+  "Machine Learning",
+  "Apache Spark",
+  "Apache NiFi",
+  "Docker Desktop",
+  "Tableau",
+  "Power BI",
+  "Python",
+  "Database Management",
+  "R Programming",
 ];
 
 /**
@@ -45,7 +49,13 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. \
+  As a Data Science student, I am a highly analytical and detail-oriented professional with a \
+  passion for exploring complex data sets to uncover valuable insights that drive business decisions. \
+  I possess strong problem-solving skills and a deep understanding of Statistical analysis, data mining, \
+  machine learning algorithms. I am Proficient in programming languages such as Python, R, and SQL, and \
+  have experience with data visualisation tools like Tableau and Power BI. I am a quick learner and a \
+  daptable team player with excellent communication skills and to solve complex problems.";
 
 const About = () => {
   return (
