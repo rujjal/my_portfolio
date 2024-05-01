@@ -27090,11 +27090,11 @@ var _stylesCss = require("./styles.css");
     name: "Rujjal Sada",
     title: "Data Science Student",
     email: "rujjalsada25@gmail.com",
-    gitHub: "/rujjal",
-    instagram: "/ruzzall",
-    linkedIn: "/rujjal-sada-21b7b8164",
+    gitHub: "rujjal",
+    instagram: "ruzzall",
+    linkedIn: "rujjal-sada-21b7b8164",
     medium: "",
-    twitter: "/ruzzall",
+    twitter: "ruzzall",
     youTube: "Code"
 };
 const primaryColor = "#4E567E";
